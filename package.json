@@ -1,0 +1,28 @@
+{
+  "name": "ng-maxalert",
+  "version": "1.0.0",
+  "description": "Easy alert component for angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxyharr/ng-maxalert.git"
+  },
+  "keywords": [
+    "angular",
+    "alert",
+    "typescript",
+    "javascript",
+    "angular2",
+    "ng",
+    "ngx"
+  ],
+  "author": "Max Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxyharr/ng-maxalert/issues"
+  },
+  "homepage": "https://github.com/maxyharr/ng-maxalert#readme"
+}
